@@ -1,6 +1,6 @@
 ## Amazon Questions:
 
-- [ ] [Calculating Maximum Profit (Multiple Ladders Question)](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)
+- [x] [Calculating Maximum Profit (Multiple Ladders Question)](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)
 
 - [x] [Longest Mountain ](https://leetcode.com/problems/longest-mountain-in-array/)
 
