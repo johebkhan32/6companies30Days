@@ -1,0 +1,17 @@
+#Adobe
+
+[x] 1.Find a continuous sub-array which adds to a given number S.
+[x] 2.Find the length of the Longest Arithmetic Progression (LLAP) in it.
+[x] 3.Number of distinct Words with k maximum contiguous vowels(Joe and his Dictionary Problem)
+[x] 4.Partition Equal Subset Sum
+[x] 5.Total number of ways n can be expressed as sum of xth power of unique natural numbers
+[x] 6.Generate all combinations of well-formed(balanced) parentheses.
+[x] 7.Pots of Gold Game (Similar to Covid and Beds problem)
+[x] 8.ATOI 
+[x] 9.Smallest palindromic number greater than N using the same set of digits as in N.
+[x] 10.Elections
+[x] 11.String Amendment
+[x] 12.Leaders in Array
+[x] 13.Minimum operations to convert array A to B 
+[x] 14.Smallest range in K lists 
+[x] 15.Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.
